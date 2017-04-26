@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+A .git metadata file is made, but no commits are made. This is needed so that all commits will now be recorded.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The staging area allows for grouping files in the working directory for commiting to the repository. Unlike the others, it allows for logical grouping.
