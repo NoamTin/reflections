@@ -1,0 +1,2 @@
+When would you want to use a remote repository rather than keeping all your work local?
+A remote repository backs up your work in the cloud, allows for working from multiple locations, and allows for working by multiple people.
